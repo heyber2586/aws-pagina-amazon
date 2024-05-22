@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    
+}
+h1{
+    text-align: center;
+}
+
+img {
+    height: 320px;
+}
+
+div {
+    text-align: center ;
+}
+button {
+    background-color: black;
+    color: white;
+    font-size: 25px ;
+    border-radius: 10px;
+    padding: 0.2%;
+}
